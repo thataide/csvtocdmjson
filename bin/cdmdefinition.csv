@@ -1,0 +1,5 @@
+﻿Entity1,AttributeA,string
+Entity1,AttributeB,decimal
+Entity2,AttributeX,string
+Entity2,AttributeY,decimal
+Entity2,AttributeZ,date
